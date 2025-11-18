@@ -1,5 +1,4 @@
 package com.example.SpringAI_Tutorial.controller;
-
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.image.ImagePrompt;
 import org.springframework.ai.image.ImageResponse;
